@@ -10,14 +10,6 @@ const projects = [
         githubUrl: 'https://github.com/Rajanikanth45/luxe-ecommerce',
         liveUrl: '#'
     },
-     {
-        title: 'AI- Career Counciling Platform',
-        description: 'RiseStar AI is an intelligent career counseling platform that uses Google Gemini AI to provide personalized career guidance, resume building, interview preparation, and industry insights in one place.',
-        techStack: ['Laravel', 'LiweWire', 'Tailwind CSS', 'Google Gemini-API'],
-        githubUrl: 'https://github.com/Rajanikanth45/EduSphere',
-        liveUrl: '#'
-    },
-    
     {
         title: 'Founder Forge – Networking Group',
         description: 'Developed a professional networking platform with secure authentication, profile management, and a modular database structure using PHP and MySQL.',
@@ -25,7 +17,13 @@ const projects = [
         githubUrl: 'https://github.com/Rajanikanth45/Entrepreneurial-Network-web-development',
         liveUrl: '#'
     },
-    
+    {
+        title: 'Edu-Sphere',
+        description: 'Created a student management system enabling secure handling of academic data, profiles, and courses with an admin dashboard.',
+        techStack: ['React', 'Node.js', 'Tailwind CSS'],
+        githubUrl: 'https://github.com/Rajanikanth45/EduSphere',
+        liveUrl: '#'
+    },
     {
         title: 'Spreadsheet Simulator',
         description: 'Built a mini spreadsheet application supporting cell-based calculations, formulas, and dynamic data handling similar to Excel.',
