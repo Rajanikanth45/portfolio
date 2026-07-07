@@ -14,7 +14,7 @@ const projects = [
     {
         title: 'AI- Career Counciling Platform',
         description: 'RiseStar AI is an intelligent career counseling platform that uses Google Gemini AI to provide personalized career guidance, resume building, interview preparation, and industry insights in one place.',
-        techStack: ['Laravel', 'LiweWire', 'Tailwind CSS', 'Google Gemini-API],
+        techStack: ['Laravel', 'LiweWire', 'Tailwind CSS', 'Google Gemini-API'],
         githubUrl: 'https://github.com/Rajanikanth45/EduSphere',
         liveUrl: '#'
     },
