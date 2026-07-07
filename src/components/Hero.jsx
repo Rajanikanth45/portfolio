@@ -89,7 +89,7 @@ const Hero = () => {
                 <div className="hero-image-wrapper">
                     <div className="image-border">
                         <div className="profile-photo">
-                            <img src="/IMG_20260314_184019.jpg.jpeg" alt="Mukappa Gari Rajanikanth" className="profile-img" />
+                            <img src="/img_1.jpg" alt="Mukappa Gari Rajanikanth" className="profile-img" />
                         </div>
                     </div>
                     <div className="glow-effect"></div>
